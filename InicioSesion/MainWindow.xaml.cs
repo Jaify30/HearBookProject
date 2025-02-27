@@ -55,6 +55,8 @@ namespace InicioSesion
         {
             Registro.MainWindow VentanaRegistro = new Registro.MainWindow();
             VentanaRegistro.ShowDialog();
+            MessageBox.Show("jaify puto");
+
         }
     }
 }
